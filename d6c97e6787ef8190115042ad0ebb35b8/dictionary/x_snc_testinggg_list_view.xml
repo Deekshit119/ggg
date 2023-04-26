@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f032be25872ca910115042ad0ebb35ec" extends="task" label="list view" max_length="40" name="x_snc_testinggg_list_view" type="collection"/>
+</database>
